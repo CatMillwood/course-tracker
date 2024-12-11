@@ -1,0 +1,14 @@
+{
+    "General Psychology": {
+        "prerequisites": [],
+        "description": "An introduction to psychology."
+    },
+    "Research Literacy": {
+        "prerequisites": ["General Psychology"],
+        "description": "A course on understanding and analyzing research."
+    },
+    "Social Theory": {
+        "prerequisites": ["General Sociology"],
+        "description": "An overview of sociological theories."
+    }
+}
